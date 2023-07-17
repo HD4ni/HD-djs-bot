@@ -1,6 +1,5 @@
 {
   "type": "module",
-  "license": "ISC",
   "scripts": {
     "dev": "node src/main.js"
   },
